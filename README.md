@@ -2,11 +2,14 @@
 
 ## 소개
 
-## 개인 경험
-### Unity Engine
-- `23-09` Unity 개발 공부 시작
-- `23-09-11 ~ 23-09-14` 지뢰찾기 따라만들기
-### Godot Engine
-- `23-09-18` Godot Engine 공부 시작
+### 엔진 사용 경험
+**Unity Engine 1년**
+- 지뢰찾기 (링크)
+- Color Survivor
+- FindingHaNyang
+  
+**Godot Engine 1년**
+- 유튜브 튜토리얼들
+- 
 ### 대회 참여
 > 아직 없습니다...
